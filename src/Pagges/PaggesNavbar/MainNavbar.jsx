@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar, Nav, Container } from "react-bootstrap";
+import { Navbar, Container, Nav } from "react-bootstrap";
 import HalamanUtama from "../PaggesUtama/HalamanUtama";
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import HalamanHome from "../PaggesHome/HalamanHome";
